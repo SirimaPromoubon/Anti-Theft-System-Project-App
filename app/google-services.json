@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "684905149174",
+    "firebase_url": "https://anti-theft-a4f38.firebaseio.com",
+    "project_id": "anti-theft-a4f38",
+    "storage_bucket": "anti-theft-a4f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684905149174:android:e2a15256cd1683dd",
+        "android_client_info": {
+          "package_name": "com.example.baragee.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684905149174-s945s4kgutcae7ctne1q4o5p2pipuhvl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "684905149174-vu88tkbdi3poo4oi2g7i4fkjlbqg3tlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqL_phfqFWAHBjTKIgRWUtN46I3darn74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

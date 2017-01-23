@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Anti-Theft System"</string>
+    <string name="title_activity_start">Start</string>
+    <color name="back">#ffffff</color>
+</resources>
